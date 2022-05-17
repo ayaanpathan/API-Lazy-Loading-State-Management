@@ -4,7 +4,11 @@ A demo flutter project to showcase some skills related to local storage, auth, s
 
 ## Getting Started
 
-Please find below the screenshots and a link for the video recording of the app. ![Screenshot_1652823980](https://user-images.githubusercontent.com/48903105/168916332-e9418ce0-5ffa-428e-b9f9-f9965210fdb6.png)
+Please find below the screenshots and a link for the video recording of the app.
+Video recording: https://we.tl/t-bWkg7u52pN
+
+
+![Screenshot_1652823980](https://user-images.githubusercontent.com/48903105/168916332-e9418ce0-5ffa-428e-b9f9-f9965210fdb6.png)
 ![Screenshot_1652823986](https://user-images.githubusercontent.com/48903105/168916344-d6c754b5-6da5-49f8-865e-5f7d016116cc.png)
 ![Screenshot_1652824019](https://user-images.githubusercontent.com/48903105/168916347-0e9c12f1-42cd-40f6-beab-51703bfe979a.png)
 ![Screenshot_1652824026](https://user-images.githubusercontent.com/48903105/168916374-7b2a970a-7df3-4949-bbc1-ad9dfeed4127.png)
