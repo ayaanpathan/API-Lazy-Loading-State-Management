@@ -1,6 +1,6 @@
 # demo
 
-A demo flutter project to showcase some skills related to local storage, auth, state management, APIs, lazy loading, animations, etc.
+A demo flutter project to showcase local storage, auth, state management, APIs, lazy loading, animations, etc.
 
 ## Getting Started
 
