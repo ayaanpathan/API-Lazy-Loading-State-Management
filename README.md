@@ -1,4 +1,4 @@
-# demo
+# Flutter lazy loading of list with state management using BLoC and API integration(dio) demo
 
 A demo flutter project to showcase local storage, auth, state management, APIs, lazy loading, animations, etc.
 
